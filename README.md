@@ -1,16 +1,27 @@
-# Machine-Learning-Portfolio
-Author: Jennifer Cole 
-OVERVIEW
-This repository contains machine learning projects completed as part of my transition into data science and AI engineering.
+# Machine Learning Portfolio
 
-PROJECTS
-Project:                                  
-Customer Churn Prediction              
-Skills: Logistic Regression, EDA, Classification, Feature Engineering
-Current Roadmap
-Customer Churn Prediction ✅
-Customer Segmentation
-Feature Engineering Project
-Model Evaluation & Hyperparameter Tuning
-Time Series Forecasting
-Final Capstone Project
+## About Me
+
+Aspiring Data Scientist currently pursuing an M.S. in Data Science. This portfolio showcases machine learning projects completed to develop practical skills in supervised learning, unsupervised learning, feature engineering, model evaluation, and forecasting.
+
+## Technical Skills
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Git & GitHub
+
+## Portfolio Roadmap
+
+| Project | Status |
+|----------|----------|
+| Customer Churn Prediction | ✅ Complete |
+| Customer Segmentation | ⏳ Planned |
+| Feature Engineering | ⏳ Planned |
+| Model Evaluation & Tuning | ⏳ Planned |
+| Time Series Forecasting | ⏳ Planned |
+| Final Capstone Project | ⏳ Planned |
