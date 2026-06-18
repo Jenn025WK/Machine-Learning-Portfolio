@@ -4,9 +4,9 @@ OVERVIEW
 This repository contains machine learning projects completed as part of my transition into data science and AI engineering.
 
 PROJECTS
-Project                                     Skills
-Customer Churn Prediction               Logistic Regression, EDA, Classification, Feature Engineering
-
+Project:                                  
+Customer Churn Prediction              
+Skills: Logistic Regression, EDA, Classification, Feature Engineering
 Current Roadmap
 Customer Churn Prediction ✅
 Customer Segmentation
