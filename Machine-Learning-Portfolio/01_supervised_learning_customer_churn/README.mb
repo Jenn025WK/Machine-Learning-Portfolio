@@ -1,0 +1,28 @@
+# Customer Churn Prediction
+
+## Business Problem
+Predict which customers are likely to leave a telecommunications company.
+
+## Dataset
+IBM Telco Customer Churn Dataset
+
+## Tools
+- Python
+- Pandas
+- Scikit-Learn
+- Matplotlib
+- Seaborn
+
+## Model
+Logistic Regression
+
+## Results
+Accuracy: XX%
+Precision: XX%
+Recall: XX%
+F1 Score: XX%
+
+## Business Recommendations
+- Encourage long-term contracts
+- Improve onboarding for new customers
+- Target retention campaigns toward high-risk customers
